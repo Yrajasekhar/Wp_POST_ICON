@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin name: ADD Image
-
-version: 1.0 | Author: Rajasekhar | Description: this is my first plugin
-
-Plugin URI: http://rchitchat.blogspot.in/
+*Plugin name: ADD Image
+*
+*version: 1.0 | Author: Rajasekhar | Description: This plugin helps you to integrate an imageIcon to all your posts.
+*
+*Plugin URI: http://rchitchat.blogspot.in/
 */
 
 function addImage($post){
